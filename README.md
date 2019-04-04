@@ -20,9 +20,10 @@ CDAD ML study
 |    |          |                             |(파이썬 라이브러리를 활용한 머신러닝)   : [Chapter2 지도학습 2.3.3 선형모델](https://github.com/irobii/cdad_ml/blob/master/introduction_to_ml_with_python/02-supervised-learning.ipynb)
 |    |          |                             | (숙제#2) [KNN 적용예](https://github.com/irobii/cdad_ml/blob/master/homework/hw2_ihjung_KNN_BreastCancer.pptx)
 |  5 |2019.04.04| Supervised Learning (3) Classification | (Scikit-learn 라이브러리로 구현하는 기계 학습 시스템)  : [5장 분류 I: 형편 없는 답변 감지](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython/blob/master/ch05/classify.py), [9장 분류 III: 음악 장르 분류](https://github.com/biospin/biopy/blob/gh-pages/notebook/Part3/Week13/ml09/chapter9.ipynb)
-|    |          |                             |(핸즈온 머신러닝)   : [Chapter3 분류)](https://github.com/irobii/cdad_ml/blob/master/handson-ml/Ch03_Classification.ipynb)
+|    |          |                             |(핸즈온 머신러닝)   : [Chapter3. 분류](https://github.com/irobii/cdad_ml/blob/master/handson-ml/Ch03_Classification.ipynb)
 |    |          |                             | (숙제#3) 유방암 데이터셋을 이용한 Logistic Regression (파이썬 라이브러리를 활용한 머신러닝 2.3.3장 p89~93참조), 핸즈온 머신러닝 4.7 연습문제 9,10번 (p198)
 |  6 |2019.04.11 | Supervised Learning (4) Naïve Bayes |   (Scikit-learn 라이브러리로 구현하는 기계 학습 시스템)  : 6장 분류 II: 감성분석| 
+|    |          |                             |(파이썬 라이브러리를 활용한 머신러닝)   : [Chapter2 지도학습 (2.3.4 나이브 베이즈 분류기)](https://github.com/irobii/cdad_ml/blob/master/introduction_to_ml_with_python/02-supervised-learning.ipynb)
 |  7 |2019.04.18 | Supervised Learning (5) Decision Tree |  | 
 |  8 |2019.04.25 | Supervised Learning (6) Random Forest |  | 
 |  9 |2019.05.02 | Supervised Learning (7) SVM |  | 
