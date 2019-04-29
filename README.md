@@ -21,13 +21,16 @@ CDAD ML study
 |    |          |                             | (숙제#2) [KNN 적용예](https://github.com/irobii/cdad_ml/blob/master/homework/hw2_ihjung_KNN_BreastCancer.pptx)
 |  4 |2019.04.04| Supervised Learning (3) Classification | (Scikit-learn 라이브러리로 구현하는 기계 학습 시스템)  : 5장, 9장
 |    |          |                             |(핸즈온 머신러닝)   : [Chapter5 분류)]
-|    |          |                             | (숙제#3) [유방암 데이터셋을 이용한 Logistic regession, 핸즈온 머신러닝 4.7 연습문제 9,10번](https://github.com/io2oi/selfstudy/tree/master/mlwithpython/ch2)
+|    |          |                             | (숙제#3) [유방암 데이터셋을 이용한 Logistic regession, 핸즈온 머신러닝 4.7 연습문제 9,10번](https://github.com/io2oi/selfstudy/tree/master/mlwithpython/chap2)
 |  5 |2019.04.11 | Supervised Learning (4) Naïve Bayes | (Scikit-learn 라이브러리로 구현하는 기계 학습 시스템)  : [8장. 회귀: 향상된 추천](https://github.com/irobii/cdad_ml/blob/master/building_ml_systems_with_python/Ch06_ClassificationII_SentimentalAnalysis.ipynb) | 
 |    |          |                             | (숙제#4) [Code Review: Heart Disease Prediction using Logistic Regression](https://www.kaggle.com/neisha/heart-disease-prediction-using-logistic-regression)
 |    |          |                             | (숙제#5) [Bayes' Theorem](https://github.com/irobii/cdad_ml/blob/master/homework/hw5_BayesTheorem.pptx)
-|  6 |2019.04.18 | Supervised Learning (5) Decision Tree |  | 
-|  7 |2019.04.25 | Supervised Learning (6) Random Forest |  | 
-|  8 |2019.05.02 | Supervised Learning (7) SVM |  | 
-|  9 |2019.05.09 | Supervised Learning (8) 정리 |  | 
+|  6 |2019.04.17 | Supervised Learning (5) Decision Tree |  [Chapter6. 결정트리](https://github.com/irobii/cdad_ml/blob/master/handson-ml/Ch06_Decision_Tree.ipynb) | 
+|    |          |                             | (숙제#6) [지니불순도,엔트로피](https://github.com/irobii/cdad_ml/blob/master/homework/hw6_gini_entropy.pptx)
+|  7 |2019.04.29 | Supervised Learning (6) Random Forest | [Chapter7. 앙상블 학습과 랜덤 포레스트](https://github.com/irobii/cdad_ml/blob/master/handson-ml/Ch07_Ensemble_Learning_and_Random_Forests.ipynb) | 
+|    |          |                             | (숙제#6) [앙상블러닝,랜덤포레스트,배깅,부스팅](https://github.com/irobii/cdad_ml/blob/master/homework/hw6_gini_entropy.pptx)
+|  9 |2019.05.09 | Supervised Learning (7) SVM |  | 
+|  10 |2019.05.16 | 보강 |  | 
+|  11 |2019.05.23 | 보강 |  | 
 
 ### Part2. Unsupervised Learning
