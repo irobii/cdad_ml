@@ -29,8 +29,8 @@ CDAD ML study
 |    |          |                             | (숙제#6) [지니불순도,엔트로피](https://github.com/irobii/cdad_ml/blob/master/homework/hw6_gini_entropy.pptx)
 |  7 |2019.04.29 | Supervised Learning (6) Random Forest | [Chapter7. 앙상블 학습과 랜덤 포레스트](https://github.com/irobii/cdad_ml/blob/master/handson-ml/Ch07_Ensemble_Learning_and_Random_Forests.ipynb) | 
 |    |          |                             | (숙제#6) [앙상블러닝,랜덤포레스트,배깅,부스팅](https://github.com/irobii/cdad_ml/blob/master/homework/hw6_gini_entropy.pptx)
-|  9 |2019.05.09 | Supervised Learning (7) SVM |  | 
-|  10 |2019.05.16 | 보강 |  | 
-|  11 |2019.05.23 | 보강 |  | 
+|  9 |2019.05.08 | Supervised Learning (7) SVM |  | 
+|  10 |2019.05.15 | 보강 |  | 
+|  11 |2019.05.22 | 보강 |  | 
 
 ### Part2. Unsupervised Learning
