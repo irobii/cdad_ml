@@ -23,13 +23,17 @@ CDAD ML study
 |    |          |                             |(핸즈온 머신러닝)   : [Chapter5 분류)]
 |    |          |                             | (숙제#3) [유방암 데이터셋을 이용한 Logistic regession, 핸즈온 머신러닝 4.7 연습문제 9,10번](https://github.com/io2oi/selfstudy/tree/master/mlwithpython/chap2)
 |  5 |2019.04.11 | Supervised Learning (4) Naïve Bayes | (Scikit-learn 라이브러리로 구현하는 기계 학습 시스템)  : [8장. 회귀: 향상된 추천](https://github.com/irobii/cdad_ml/blob/master/building_ml_systems_with_python/Ch06_ClassificationII_SentimentalAnalysis.ipynb) | 
+|    |          |                             |(파이썬 라이브러리를 활용한 머신러닝)   : [Chapter2 지도학습 (2.3.4 나이브 베이즈 분류기)](https://github.com/irobii/cdad_ml/blob/master/introduction_to_ml_with_python/02-supervised-learning.ipynb)
 |    |          |                             | (숙제#4) [Code Review: Heart Disease Prediction using Logistic Regression](https://www.kaggle.com/neisha/heart-disease-prediction-using-logistic-regression)
 |    |          |                             | (숙제#5) [Bayes' Theorem](https://github.com/irobii/cdad_ml/blob/master/homework/hw5_BayesTheorem.pptx)
 |  6 |2019.04.17 | Supervised Learning (5) Decision Tree |  (핸즈온 머신러닝) : [Chapter6. 결정트리](https://github.com/irobii/cdad_ml/blob/master/handson-ml/Ch06_Decision_Tree.ipynb) | 
+|    |          |                             |(파이썬 라이브러리를 활용한 머신러닝)   : [Chapter2 지도학습 (2.3.5 결정 트리)](https://github.com/irobii/cdad_ml/blob/master/introduction_to_ml_with_python/02-supervised-learning.ipynb)
 |    |          |                             | (숙제#6) [지니불순도,엔트로피](https://github.com/irobii/cdad_ml/blob/master/homework/hw6_gini_entropy.pptx)
 |  7 |2019.04.29 | Supervised Learning (6) Random Forest | (핸즈온 머신러닝) : [Chapter7. 앙상블 학습과 랜덤 포레스트](https://github.com/irobii/cdad_ml/blob/master/handson-ml/Ch07_Ensemble_Learning_and_Random_Forests.ipynb) | 
+|    |          |                             |(파이썬 라이브러리를 활용한 머신러닝)   : [Chapter2 지도학습 (2.3.6 결정 트리의 앙상블 ~ 2.3.7 배깅, 엑스트라트리, 에이다부스트)](https://github.com/irobii/cdad_ml/blob/master/introduction_to_ml_with_python/02-supervised-learning.ipynb)
 |    |          |                             | (숙제#7) [앙상블러닝,랜덤포레스트,배깅,부스팅](https://github.com/irobii/cdad_ml/blob/master/homework/hw7_gini_entropy.pptx)
-|  9 |2019.05.08 | Supervised Learning (7) SVM |  (핸즈온 머신러닝) : [Chapter5. 결정트리](https://github.com/irobii/cdad_ml/blob/master/handson-ml/Ch05-SVM.ipynb)| 
+|  9 |2019.05.08 | Supervised Learning (7) SVM |  (핸즈온 머신러닝) : [Chapter5. 서포트벡터머신](https://github.com/irobii/cdad_ml/blob/master/handson-ml/Ch05-SVM.ipynb)| 
+|    |          |                             |(파이썬 라이브러리를 활용한 머신러닝)   : [Chapter2 지도학습 (2.3.8 커널 서포트 벡터 머신)](https://github.com/irobii/cdad_ml/blob/master/introduction_to_ml_with_python/02-supervised-learning.ipynb)
 |  10 |2019.05.15 | 보강1 |  | 
 |  11 |2019.05.22 | 보강2 |  | 
 
